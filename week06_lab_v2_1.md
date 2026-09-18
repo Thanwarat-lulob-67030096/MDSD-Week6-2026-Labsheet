@@ -365,6 +365,14 @@ class MyApp extends StatelessWidget {
 ```text
 บันทึกรูปที่นี่
 ```
+1. ชื่อเมืองจริง
+<img width="1082" height="931" alt="image" src="https://github.com/user-attachments/assets/a9535606-e76f-47ce-99b8-1b5b75c50491" />
+
+2.เมืองที่ไม่มีอยู่จริง
+<img width="1102" height="929" alt="image" src="https://github.com/user-attachments/assets/f761acdd-f557-492a-9d7f-afbb012b1c43" />
+
+3.ปิด Wi-Fi/Data
+
 
 ---
 
