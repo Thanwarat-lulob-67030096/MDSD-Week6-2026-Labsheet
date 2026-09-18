@@ -91,6 +91,8 @@ https://api.openweathermap.org/data/2.5/weather?q=Bangkok&appid=YOUR_API_KEY&uni
 ```text
 บันทึกรูปและคำตอบที่นี่
 ```
+<img width="1059" height="781" alt="image" src="https://github.com/user-attachments/assets/52968ad8-ddfc-4eda-8c65-3639af619295" />
+
 ---
 
 ## ส่วนที่ 2: สร้าง Model Class และเรียก API ด้วย http Package
@@ -187,6 +189,8 @@ void main() {
 ```text
 บันทึกรูปที่นี่
 ```
+<img width="547" height="158" alt="image" src="https://github.com/user-attachments/assets/60339f1b-9ad3-49ae-ab92-b076a03e78a4" />
+
 ### ขั้นตอนที่ 2.3 — 🧠 คิดเอง/ออกแบบเอง
 
 สร้างไฟล์ `lib/services/weather_service.dart` แล้วเขียน `WeatherService` ต่อจากตัวอย่างโครงเริ่มต้นด้านล่างนี้  
@@ -237,6 +241,11 @@ class WeatherService {
 ```text
 บันทึกรูปและคำตอบที่นี่
 ```
+1.200
+<img width="1080" height="936" alt="image" src="https://github.com/user-attachments/assets/09b8fe60-b449-45d9-be12-ddb0da432be4" />
+
+2.404
+<img width="1094" height="920" alt="image" src="https://github.com/user-attachments/assets/3d1be9fd-45d4-4554-bd93-68686efe76db" />
 
 ### ขั้นตอนที่ 2.4 — 🧠 คิดเอง/ออกแบบเอง
 
